@@ -1,0 +1,13 @@
+# Session cookies
+*.txt.bak
+cookies.txt
+admin_cookies.txt
+medical_cookies.txt
+
+# Compiled or temp files
+*.pyc
+__pycache__/
+
+# OS artifacts
+.DS_Store
+Thumbs.db

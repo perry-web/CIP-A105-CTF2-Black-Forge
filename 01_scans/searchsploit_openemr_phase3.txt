@@ -1,0 +1,43 @@
+-------------------------------------------------- ---------------------------------
+ Exploit Title                                    |  Path
+-------------------------------------------------- ---------------------------------
+[01;31m[KOpenEMR[m[K - 'site' Cross-Site Scripting             | php/webapps/38328.txt
+[01;31m[KOpenEMR[m[K - Arbitrary '.PHP' File Upload (Metasploi | php/remote/24529.rb
+[01;31m[KOpenEMR[m[K 2.8.1 - 'fileroot' Remote File Inclusion  | php/webapps/1886.txt
+[01;31m[KOpenEMR[m[K 2.8.1 - 'srcdir' Multiple Remote File Inc | php/webapps/2727.txt
+[01;31m[KOpenEMR[m[K 2.8.2 - 'Import_XML.php' Remote File Incl | php/webapps/29556.txt
+[01;31m[KOpenEMR[m[K 2.8.2 - 'Login_Frame.php' Cross-Site Scri | php/webapps/29557.txt
+[01;31m[KOpenEMR[m[K 3.2.0 - SQL Injection / Cross-Site Script | php/webapps/15836.txt
+[01;31m[KOpenEMR[m[K 4 - Multiple Vulnerabilities              | php/webapps/18274.txt
+[01;31m[KOpenEMR[m[K 4.0 - Multiple Cross-Site Scripting Vulne | php/webapps/36034.txt
+[01;31m[KOpenEMR[m[K 4.0.0 - Multiple Vulnerabilities          | php/webapps/17118.txt
+[01;31m[KOpenEMR[m[K 4.1 - '/contrib/acog/print_form.php?formn | php/webapps/36650.txt
+[01;31m[KOpenEMR[m[K 4.1 - '/Interface/fax/fax_dispatch.php?Fi | php/webapps/36651.txt
+[01;31m[KOpenEMR[m[K 4.1 - '/Interface/patient_file/encounter/ | php/webapps/36648.txt
+[01;31m[KOpenEMR[m[K 4.1 - '/Interface/patient_file/encounter/ | php/webapps/36649.txt
+[01;31m[KOpenEMR[m[K 4.1 - 'note' HTML Injection               | php/webapps/38654.txt
+[01;31m[KOpenEMR[m[K 4.1.0 - 'u' SQL Injection                 | php/webapps/49742.py
+[01;31m[KOpenEMR[m[K 4.1.1 - 'ofc_upload_image.php' Arbitrary  | php/webapps/24492.php
+[01;31m[KOpenEMR[m[K 4.1.1 Patch 14 - Multiple Vulnerabilities | php/webapps/28329.txt
+[01;31m[KOpenEMR[m[K 4.1.1 Patch 14 - SQL Injection / Privileg | php/remote/28408.rb
+[01;31m[KOpenEMR[m[K 4.1.2(7) - Multiple SQL Injections        | php/webapps/35518.txt
+[01;31m[KOpenEMR[m[K 5.0.0 - OS Command Injection / Cross-Site | php/webapps/43232.txt
+[01;31m[KOpenEMR[m[K 5.0.0 - Remote Code Execution (Authentica | php/webapps/49983.py
+[01;31m[KOpenEMR[m[K 5.0.1 - 'controller' Remote Code Executio | php/webapps/48623.txt
+[01;31m[KOpenEMR[m[K 5.0.1 - Remote Code Execution (1)         | php/webapps/48515.py
+[01;31m[KOpenEMR[m[K 5.0.1 - Remote Code Execution (Authentica | php/webapps/49486.rb
+[01;31m[KOpenEMR[m[K 5.0.1.3 - 'manage_site_files' Remote Code | php/webapps/49998.py
+[01;31m[KOpenEMR[m[K 5.0.1.3 - 'manage_site_files' Remote Code | php/webapps/50122.rb
+[01;31m[KOpenEMR[m[K 5.0.1.3 - (Authenticated) Arbitrary File  | linux/webapps/45202.txt
+[01;31m[KOpenEMR[m[K 5.0.1.3 - Authentication Bypass           | php/webapps/50017.py
+[01;31m[KOpenEMR[m[K 5.0.1.3 - Remote Code Execution (Authenti | php/webapps/45161.py
+[01;31m[KOpenEMR[m[K 5.0.1.7 - 'fileName' Path Traversal (Auth | php/webapps/50037.py
+[01;31m[KOpenEMR[m[K 5.0.1.7 - 'fileName' Path Traversal (Auth | php/webapps/50087.rb
+[01;31m[KOpenEMR[m[K 5.0.2.1 - Remote Code Execution           | php/webapps/49784.py
+[01;31m[KOpenEMR[m[K 6.0.0 - 'noteid' Insecure Direct Object R | php/webapps/50260.txt
+[01;31m[KOpenEMR[m[K 7.0.2 - Arbitrary File Read               | multiple/webapps/52610.py
+[01;31m[KOpenEMR[m[K Electronic Medical Record Software 3.2 -  | php/webapps/14011.txt
+[01;31m[KOpenEMR[m[K v7.0.1 - Authentication credentials brute | php/webapps/51413.py
+[01;31m[KOpenemr[m[K-4.1.0 - SQL Injection                     | php/webapps/17998.txt
+-------------------------------------------------- ---------------------------------
+Shellcodes: No Results

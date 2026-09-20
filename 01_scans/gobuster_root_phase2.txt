@@ -1,0 +1,12 @@
+images              [36m (Status: 301)[0m [Size: 346][34m [--> http://192.168.254.128/images/][0m
+index.html          [32m (Status: 200)[0m [Size: 5031]
+index               [32m (Status: 200)[0m [Size: 5031]
+css                 [36m (Status: 301)[0m [Size: 343][34m [--> http://192.168.254.128/css/][0m
+js                  [36m (Status: 301)[0m [Size: 342][34m [--> http://192.168.254.128/js/][0m
+vendor              [36m (Status: 301)[0m [Size: 346][34m [--> http://192.168.254.128/vendor/][0m
+favicon             [32m (Status: 200)[0m [Size: 1406]
+robots              [32m (Status: 200)[0m [Size: 620]
+fonts               [36m (Status: 301)[0m [Size: 345][34m [--> http://192.168.254.128/fonts/][0m
+gitweb              [36m (Status: 301)[0m [Size: 346][34m [--> http://192.168.254.128/gitweb/][0m
+server-status       [33m (Status: 403)[0m [Size: 1001]
+phpMyAdmin          [33m (Status: 403)[0m [Size: 59]

@@ -1,0 +1,8 @@
+# OpenEMR Cracked Credentials
+# Source: validateUser.php SQLi (49742.py) + john/hashcat rockyou.txt
+# Date: 2026-09-19
+
+username | hash                                     | plaintext | hash_type
+---------|------------------------------------------|-----------|----------
+admin    | 3863efef9ee2bfbc51ecdca359c6302bed1389e8 | ackbar    | SHA1
+medical  | ab24aed5a7c4ad45615cd7e0da816eea39e4895d | medical   | SHA1

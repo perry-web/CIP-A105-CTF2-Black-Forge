@@ -1,0 +1,15 @@
+images              [36m (Status: 301)[0m [Size: 346][34m [--> http://192.168.254.128/images/][0m
+index.html          [32m (Status: 200)[0m [Size: 5031]
+index               [32m (Status: 200)[0m [Size: 5031]
+css                 [36m (Status: 301)[0m [Size: 343][34m [--> http://192.168.254.128/css/][0m
+js                  [36m (Status: 301)[0m [Size: 342][34m [--> http://192.168.254.128/js/][0m
+vendor              [36m (Status: 301)[0m [Size: 346][34m [--> http://192.168.254.128/vendor/][0m
+favicon             [32m (Status: 200)[0m [Size: 1406]
+robots              [32m (Status: 200)[0m [Size: 620]
+fonts               [36m (Status: 301)[0m [Size: 345][34m [--> http://192.168.254.128/fonts/][0m
+gitweb              [36m (Status: 301)[0m [Size: 346][34m [--> http://192.168.254.128/gitweb/][0m
+phpMyAdmin          [33m (Status: 403)[0m [Size: 59]
+server-status       [33m (Status: 403)[0m [Size: 1001]
+server-info         [33m (Status: 403)[0m [Size: 1001]
+logitech-quickcam_W0QQcatrefZC5QQfbdZ1QQfclZ3QQfposZ95112QQfromZR14QQfrppZ50QQfsclZ1QQfsooZ1QQfsopZ1QQfssZ0QQfstypeZ1QQftrtZ1QQftrvZ1QQftsZ2QQnojsprZyQQpfidZ0QQsaatcZ1QQsacatZQ2d1QQsacqyopZgeQQsacurZ0QQsadisZ200QQsaslopZ1QQsofocusZbsQQsorefinesearchZ1.html[33m (Status: 403)[0m [Size: 1001]
+openemr             [36m (Status: 301)[0m [Size: 347][34m [--> http://192.168.254.128/openemr/][0m
