@@ -541,7 +541,7 @@ Restore Healthcare VM to clean baseline snapshot: CIP-A105-CTF2-CLEAN-BASELINE
 ---
 
 ## 10. Attack Chain Summary
-
+```
 [Kali 192.168.254.129]
 |
 | HTTP GET
@@ -575,7 +575,7 @@ v
 v
 [root flag: eaff25eaa9ffc8b62e3dfebf70e83a7b]
 
-
+```
 ---
 
 ## 11. Mission Proofs
@@ -724,7 +724,7 @@ nmap -p 21 192.168.254.128
 ---
 
 ## 14. Folder Structure
-
+```
 CIP-A105_RegNo_CTF2_Black-Forge/
 ├── README.md <- This file
 ├── setup_project.sh <- Project scaffolding script
@@ -759,7 +759,7 @@ CIP-A105_RegNo_CTF2_Black-Forge/
 ├── phase6_privesc.md
 └── phase7_remediation.md
 
-
+```
 ---
 
 *Operation Black Forge — Completed 2026-09-19*
